@@ -7,7 +7,7 @@
 
 ## Install Dependencies
 
-To run the app, simply clone the repo
+To run the app, simply clone the repo.
 
 ```bash
 yarn add
